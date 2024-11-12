@@ -1,8 +1,5 @@
 # h1 css
 ## h2 css
 
-こんにちは
-Hello git!
-Naaaa
-Hello aa
-aaawww
+あああ
+いいい
